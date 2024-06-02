@@ -1,0 +1,20 @@
+{
+  "version": "5",
+  "dialect": "pg",
+  "entries": [
+    {
+      "idx": 0,
+      "version": "5",
+      "when": 1717319068784,
+      "tag": "0000_tense_jackpot",
+      "breakpoints": true
+    },
+    {
+      "idx": 1,
+      "version": "5",
+      "when": 1717354448591,
+      "tag": "0001_illegal_spacker_dave",
+      "breakpoints": true
+    }
+  ]
+}
